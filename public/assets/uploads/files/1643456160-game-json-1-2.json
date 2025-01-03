@@ -1,0 +1,37 @@
+{
+	"client_id": "2",
+	"game_id": "1",
+	"deviceUniqueIdentifier": "f68a9f35976ac38e904552d73745a492a90917c8",
+	"DeviceModel": "HP Notebook (HP)",
+	"DeviceType": "Desktop",
+	"OperatingSystem": "Windows 10  (10.0.0) 64bit",
+	"OperatingSystemFamily": "Windows",
+	"supportsAudio": true,
+	"username": "sonam",
+	"age": 0,
+	"gender": "",
+	"Demographic": "",
+	"DSPName": "HuntDigital",
+	"adSlotData": [
+	
+		{
+			"offer_id": "923835",
+			"watched": false,
+			"TimeStamp": "01122022025734",
+			"adspot_id": "13502",
+			"payout": "30",
+			"currency": "USD",
+			"title": "ETORO_CPA_AU,AT,BH,DK,FI,FR,DE,_AND_Direct",
+			"vertical": "CPA",
+			"category": "Mainstream",
+			"status_name": "approved",
+			"daily_budget": null,
+			"running_status": "Pause",
+			"tracking_url": "http://hdm3.in/ck.php?sid=1e7614e6&partnerid={partnerid}&pubid={pubid}&sub1={sub1}&txnid={clickid}",
+			"click_url": "http://hdm3.in/ck.php?sid=1e7614e6&partnerid={partnerid}&pubid={pubid}&sub1={sub1}&txnid={clickid}",
+			"preview_link": "https://play.google.com/store/apps/details?id=com.etoro.openbook",
+			"conversion_flow": "Normal",
+			"kpi": "<p>\r\n\t<!-- StartFragment --><strong text-decoration-color:=\"\" text-decoration-style:=\"\" text-decoration-thickness:=\"\" background-color:=\"\" word-spacing:=\"\" widows:=\"\" white-space:=\"\" text-transform:=\"\" text-indent:=\"\" text-align:=\"\" orphans:=\"\" letter-spacing:=\"\" font-variant-caps:=\"\" font-variant-ligatures:=\"\" font-style:=\"\" font-size:=\"\" helvetica=\"\" style=\"color: rgb(34, 34, 34); font-family: \">KPI-<span>&nbsp;</span></strong><span style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0); font-family: Arial; font-size: 10pt;\">Protect360 + Check SS</span>\r\n\t<!-- EndFragment --><br />\r\n</p>\r\n<p>\r\n\t<span style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0); font-family: Arial; font-size: 10pt;\">Geo AU,AT,BH,DK,FI,FR,DE,IE,IT,KW,LU,MX,NL,NO,OM,PT,QA,SA,SG,ES,SE,CH,AE,GB,LI,SM<br /></span>\r\n</p>\r\n<p>\r\n\t<span style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0); font-family: Arial; font-size: 10pt;\">kpi<br />Fraud Rules: Following will not be included in the billing.<br />1) Low 20 sec&gt; CTIT <br />2) Click Spamming <br />3) Click Injection <br />4) Incentivization <br />5) Wrong app version <br />6) Wrong Country Conversion <br />7) CVR within 0.10% to 8% at sub publisher level<br /><br /></span>\r\n</p>"
+		}
+	]
+}

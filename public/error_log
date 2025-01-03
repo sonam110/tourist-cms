@@ -1,0 +1,21 @@
+[13-Sep-2024 06:03:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/gofactz/tourism.gofactz.com/vendor/composer/../../app/Helpers/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/gofactz/tourism.gofactz.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/gofactz/tourism.gofactz.com/vendor/composer/autoload_real.php(45): {closure}('d21d43db5f6e840...', '/home2/gofactz/...')
+#1 /home2/gofactz/tourism.gofactz.com/vendor/autoload.php(25): ComposerAutoloaderInit7e8c3c14ff33b199b4a0838993eb8423::getLoader()
+#2 /home2/gofactz/tourism.gofactz.com/public/index.php(13): require('/home2/gofactz/...')
+#3 {main}
+  thrown in /home2/gofactz/tourism.gofactz.com/vendor/composer/autoload_real.php on line 41
+[13-Sep-2024 06:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/gofactz/tourism.gofactz.com/vendor/composer/../../app/Helpers/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/gofactz/tourism.gofactz.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/gofactz/tourism.gofactz.com/vendor/composer/autoload_real.php(45): {closure}('d21d43db5f6e840...', '/home2/gofactz/...')
+#1 /home2/gofactz/tourism.gofactz.com/vendor/autoload.php(25): ComposerAutoloaderInit7e8c3c14ff33b199b4a0838993eb8423::getLoader()
+#2 /home2/gofactz/tourism.gofactz.com/public/index.php(13): require('/home2/gofactz/...')
+#3 {main}
+  thrown in /home2/gofactz/tourism.gofactz.com/vendor/composer/autoload_real.php on line 41
+[13-Sep-2024 06:03:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/gofactz/tourism.gofactz.com/vendor/composer/../../app/Helpers/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/gofactz/tourism.gofactz.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/gofactz/tourism.gofactz.com/vendor/composer/autoload_real.php(45): {closure}('d21d43db5f6e840...', '/home2/gofactz/...')
+#1 /home2/gofactz/tourism.gofactz.com/vendor/autoload.php(25): ComposerAutoloaderInit7e8c3c14ff33b199b4a0838993eb8423::getLoader()
+#2 /home2/gofactz/tourism.gofactz.com/public/index.php(13): require('/home2/gofactz/...')
+#3 {main}
+  thrown in /home2/gofactz/tourism.gofactz.com/vendor/composer/autoload_real.php on line 41
